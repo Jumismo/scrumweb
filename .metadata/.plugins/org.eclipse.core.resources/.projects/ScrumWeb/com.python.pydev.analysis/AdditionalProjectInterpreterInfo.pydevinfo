@@ -1,0 +1,38 @@
+-- VERSION_4
+-- START DISKCACHE_2
+C:\Users\jumismo\Documents\Workspaces\PythonWorkspace\.metadata\.plugins\org.eclipse.core.resources\.projects\ScrumWeb\com.python.pydev.analysis\v2_indexcache
+ScrumWeb.wsgi|1464006281639674000|C:\Users\jumismo\Documents\Workspaces\PythonWorkspace\ScrumWeb\ScrumWeb\wsgi.py
+ScrumWeb.__init__|1464006281640675000|C:\Users\jumismo\Documents\Workspaces\PythonWorkspace\ScrumWeb\ScrumWeb\__init__.py
+ScrumWeb.urls|1464006281638674000|C:\Users\jumismo\Documents\Workspaces\PythonWorkspace\ScrumWeb\ScrumWeb\urls.py
+ScrumWeb.settings|1464006281724736000|C:\Users\jumismo\Documents\Workspaces\PythonWorkspace\ScrumWeb\ScrumWeb\settings.py
+manage|1464006281620670000|C:\Users\jumismo\Documents\Workspaces\PythonWorkspace\ScrumWeb\manage.py
+-- END DISKCACHE
+-- START DICTIONARY
+3
+2=ScrumWeb.wsgi
+3=ScrumWeb.urls
+1=ScrumWeb.settings
+-- END DICTIONARY
+-- START TREE 1
+17
+all|1|ALLOWED_HOSTS!11@
+app|1|application!19@
+aut|1|AUTH_PASSWORD_VALIDATORS!11@
+bas|1|BASE_DIR!11@
+dat|1|DATABASES!11@
+deb|1|DEBUG!11@
+ins|1|INSTALLED_APPS!11@
+lan|1|LANGUAGE_CODE!11@
+mid|1|MIDDLEWARE_CLASSES!11@
+roo|1|ROOT_URLCONF!11@
+sec|1|SECRET_KEY!11@
+sta|1|STATIC_URL!11@
+tem|1|TEMPLATES!11@
+tim|1|TIME_ZONE!11@
+url|1|urlpatterns!27@
+use|3|USE_I18N!11@USE_TZ!11@USE_L10N!11@
+wsg|1|WSGI_APPLICATION!11@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

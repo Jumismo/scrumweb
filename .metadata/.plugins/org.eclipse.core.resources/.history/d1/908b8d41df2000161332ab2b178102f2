@@ -1,0 +1,9 @@
+from django.shortcuts import render
+from scrum.models import Proyecto, Sprint, SprintReview, DailyScrum, HistoriasUsuario, Retrospectiva, Tareas, TareasDailyScrum, TareasSpringReview
+from django.contrib.auth.models import User
+from django.template import loader
+
+# Create your views here.
+def inicio(request):
+    plantilla = loader.get_template('scrum/plantillas/inicio.html')
+    return render(request, plantilla)

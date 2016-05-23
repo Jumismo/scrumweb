@@ -1,0 +1,11 @@
+from django.contrib.auth.models import User
+from django.shortcuts import render
+from django.template import loader
+
+from scrum.models import Proyecto, Sprint, SprintReview, DailyScrum, HistoriasUsuario, Retrospectiva, Tareas, TareasDailyScrum, TareasSpringReview
+
+
+# Create your views here.
+def inicio(request):
+    plantilla = loader.get_template('inicio.html')
+    return render(request, plantilla)

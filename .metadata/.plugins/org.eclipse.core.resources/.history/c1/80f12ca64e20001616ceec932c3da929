@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+	<meta charset="utf-8">
+	<title>Scrum Web</title>
+	<style type="text/css">
+		{% block style_css %} {% endblock%}
+	</style>
+</head>
+</html>
+
+
