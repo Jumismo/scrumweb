@@ -1,7 +1,0 @@
-{% extends 'base.html' %}
-
-{% block titulo%} Inicio {% endblock %}
-
-{% block contenido %}
-
-{% endblock %}

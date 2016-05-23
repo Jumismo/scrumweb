@@ -1,4 +1,0 @@
-from scrum.models import Proyecto, Sprint
-from django.contrib import admin
-
-# Register your models here.
